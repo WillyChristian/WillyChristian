@@ -19,16 +19,21 @@ tem _início_, _meio_ e _fim_ e pensando nisso foi que resolvi incrementar meu t
 ### Meus estudos...
 
 ...tem se baseado principalmente em tecnologias que utilizam Javascript, como: 
-<img src="https://img.shields.io/badge/-React.Js-blue?style=for-the-badge">, 
-<img src="https://img.shields.io/badge/-Next.Js-black?style=for-the-badge">, 
-<img src="https://img.shields.io/badge/-Node.Js-success?style=for-the-badge">, 
+<p align="center">
+<img src="https://img.shields.io/badge/-React.Js-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Next.Js-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Node.Js-success?style=for-the-badge">
+</p>
 
-E além do destes, eu ja estudei/tive algum contato com: 
-<img src="https://img.shields.io/badge/-C#-informational?style=for-the-badge">, 
-<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge">, 
-<img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge"> e 
+E além do destes, eu ja estudei/tive algum contato com:
+<p align="center">
+ <img src="https://img.shields.io/badge/-C#-informational?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-React Native-informational?style=for-the-badge">(Expo)
-Mas eu preferi adicionar o <img src="https://img.shields.io/badge/-PHP-yellow?style=for-the-badge"> na minha bagagem para diversificar meus conhecimentos.
+</p>
+
+Mas eu preferi adicionar o <img src="https://img.shields.io/badge/NEW!-PHP-yellow?style=social"> na minha bagagem para diversificar meus conhecimentos.
 
 ### Meu foco...
 
