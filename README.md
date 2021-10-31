@@ -1,14 +1,14 @@
 ## ``` console.log("Olá 👋! Seja bem vindo!") ```
 
-### Eu me chamo __Willy Christian__! E sou um estudante e aspirante a programador! 
+## Eu me chamo _Willy Christian_! E sou um estudante e aspirante a programador! 
 
-Fique a vontade para olhar, comentar e clonar os repositórios e se quiser me contactar, segue abaixo:
+Fique a vontade para olhar e clonar os repositórios e se quiser me contactar, estou disponível nos canais abaixo:
 
-__Email:__ willy.co.teixeira@gmail.com
+__E-mail:__ willy.co.teixeira@gmail.com
 
-__LinkedIn:__[Willy Christian](https://www.linkedin.com/in/willychristian/)
+__LinkedIn:__ [Willy Christian](https://www.linkedin.com/in/willychristian/)
 
-### Atualmente...
+## Atualmente...
 
 Estou trabalhando no repositório *todo-pcass*. Este é um projeto para me ajudar no dia-a-dia do trabalho e na essência, é um TODO-List.
 
@@ -18,7 +18,7 @@ tem _início_, _meio_ e _fim_ e pensando nisso foi que resolvi incrementar meu t
 
 'cara' de manual. Vale a pena dar uma conferida ;)
 
-### Meus estudos...
+## Meus estudos...
 
 ...tem se baseado principalmente em tecnologias que utilizam Javascript, como: 
 <p align="center">
@@ -27,23 +27,23 @@ tem _início_, _meio_ e _fim_ e pensando nisso foi que resolvi incrementar meu t
 <img src="https://img.shields.io/badge/-Node.Js-success?style=for-the-badge">
 </p>
 
-E além do destes, eu ja estudei/tive algum contato com:
+E além destes, eu ja estudei e/ou ja tive algum contato com:
 <p align="center">
 <img src="https://img.shields.io/badge/-C%23-informational?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/-React Native-informational?style=for-the-badge">(Expo)
+<img src="https://img.shields.io/badge/Expo-React Native-informational?style=for-the-badge">
 </p>
 
-Mas eu preferi adicionar o <img src="https://img.shields.io/badge/NEW!-PHP-yellow?style=social"> na minha bagagem para diversificar meus conhecimentos.
+Mas eu preferi adicionar <img src="https://img.shields.io/badge/-PHP-yellow?style=plastic"> na minha bagagem para diversificar meus conhecimentos.
 
-### Meu foco...
+## Meu foco...
 
-...de aprendizagem tem sido o front end. Eu gosto de desenhar os layouts na tela, é satisfatório! Mas eu ainda tenho muito o que aprimorar :P
+...de aprendizagem tem sido o front-end. Eu gosto de desenhar os layouts na tela, é satisfatório! Mas eu ainda tenho muito o que aprimorar :P
 
-### No futuro...
+## No futuro...
 
-...pretendo me aperfeiçoar no desenvolvimento do front end, e aprender um pouco mais sobre o back end, pra me tornar um fullstack. Também esta no meu radar para um
+...pretendo me aperfeiçoar no desenvolvimento do front-end, e aprender um pouco mais sobre o back-end, pra me tornar um fullstack. Também esta no meu radar para um
 
 futuro próximo um aperfeiçoamento em UI/UX e (se Deus quiser) finalizar minha graduação.
 
