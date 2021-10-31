@@ -1,10 +1,12 @@
-## ``` console.log( " Olá! 👋") ```
+## ``` console.log("Olá 👋! Seja bem vindo!") ```
 
 ### Eu me chamo __Willy Christian__! E sou um estudante e aspirante a programador! 
 
 Fique a vontade para olhar, comentar e clonar os repositórios e se quiser me contactar, segue abaixo:
-<p>**Email:** willy.co.teixeira@gmail.com</p>
-<p>**LinkedIn:** [Willy Christian](https://www.linkedin.com/in/willychristian/)</p>
+
+__Email:__ willy.co.teixeira@gmail.com
+
+__LinkedIn:__[Willy Christian](https://www.linkedin.com/in/willychristian/)
 
 ### Atualmente...
 
@@ -27,7 +29,7 @@ tem _início_, _meio_ e _fim_ e pensando nisso foi que resolvi incrementar meu t
 
 E além do destes, eu ja estudei/tive algum contato com:
 <p align="center">
- <img src="https://img.shields.io/badge/-C#-informational?style=for-the-badge">
+ <img src="https://img.shields.io/badge/-C-Sharp-informational?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-React Native-informational?style=for-the-badge">(Expo)
