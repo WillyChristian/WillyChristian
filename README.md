@@ -29,7 +29,7 @@ tem _início_, _meio_ e _fim_ e pensando nisso foi que resolvi incrementar meu t
 
 E além do destes, eu ja estudei/tive algum contato com:
 <p align="center">
- <img src="https://img.shields.io/badge/-C-Sharp-informational?style=for-the-badge">
+<img src="https://img.shields.io/badge/-C%23-informational?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-React Native-informational?style=for-the-badge">(Expo)
