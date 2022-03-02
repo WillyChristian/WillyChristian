@@ -1,6 +1,6 @@
 ## ``` console.log("Olá 👋! Seja bem vindo!") ```
 
-## Eu me chamo _Willy Christian_! E sou um estudante e aspirante a programador! 
+## Eu me chamo _Willy Christian_! E sou um estudante e programador! 
 
 Fique a vontade para olhar e clonar os repositórios e se quiser me contactar, estou disponível nos canais abaixo:
 
