@@ -42,7 +42,7 @@ trabalhando são:
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </p>
 
-E atualmente, adicionei <img src="https://img.shields.io/badge/CMS-Drupal-%230678BE?style=for-the-badge&logo=Drupal"/> por circunstâncias do trabalho
+E atualmente, adicionei <img src="https://img.shields.io/badge/CMS-Drupal-%230678BE?style=flat-square&logo=Drupal"/> por circunstâncias do trabalho
 
 ### Meu foco...
 
