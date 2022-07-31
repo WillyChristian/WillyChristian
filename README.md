@@ -10,23 +10,33 @@ __LinkedIn:__ [Willy Christian](https://www.linkedin.com/in/willychristian/)
 
 ## Anteriormente (até dezembro/2021)...
   Até essa data eu trabalhava no suporte técnico e fazia reparo de equipamentos eletrônicos. Durante esse período fiz alguns projetos.
-voltados para o meu contexto, coisas que mostrassem alguma utilidade e talvez pudesse implantar no ambiente. Foram: 
+voltados para o meu contexto, coisas que mostrassem alguma utilidade e talvez pudesse implantar no ambiente. Foram:
+
  - [Minhas Vendas](https://github.com/WillyChristian/minhasVendas)
  - [Todo PCAAS](https://github.com/WillyChristian/todo-pcaas) - É o último que fiz nesse sentido.
-Houveram outros, com certeza, mas esses eu tinha pouca experência e precisam de atualização e refatoração.
+
+Houveram outros, com certeza, mas como são do início, eu tinha pouca experência e precisam de atualização e refatoração.
 
 ## De dezembro pra ca...
   Em dezembro consegui fazer a migração de carreira e hoje sou atuante como __Desenvolvedor Jr.__ na [CI&T](https://ciandt.com/br/).
-Aqui atuo principalmente como __desenvolvedor front end__ atuando com:
+Aqui, atuo principalmente como __desenvolvedor front end__ utilizando:
 
 <p align="center">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" />  
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
 
-  Mas também tenho algumas contribuições com backend usando <img src="https://img.shields.io/badge/Backend-PHP-yellow?style=plastic">
+Algumas libraries, como:
+<p align="center">
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<img src="https://img.shields.io/badge/Library-GreenSock-%88CE02?style=for-the-badge&logo=greensock" />
+</p>
+
+E um pouco de backend, com:
+<p align="center">
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+</p>
 ## Meus estudos...
 
 ...tem se baseado principalmente em tecnologias que utilizam Javascript, como: 
