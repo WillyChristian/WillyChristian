@@ -19,10 +19,14 @@ Houveram outros, com certeza, mas esses eu tinha pouca experência e precisam de
   Em dezembro consegui fazer a migração de carreira e hoje sou atuante como __Desenvolvedor Jr.__ na [CI&T](https://ciandt.com/br/).
 Aqui atuo principalmente como __desenvolvedor front end__ atuando com:
 
-- <img src="https://img.shields.io/badge/-PHP-yellow?style=plastic">
-- <img src"https://img.shields.io/badge/CMS-Drupal-blue?style=plastic">
-- <img src"https://img.shields.io/badge/Preprocessador-SASS-%23BF4080?style=plastic">
+<p align="center">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" />  
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+</p>
 
+  Mas também tenho algumas contribuições com backend usando <img src="https://img.shields.io/badge/Backend-PHP-yellow?style=plastic">
 ## Meus estudos...
 
 ...tem se baseado principalmente em tecnologias que utilizam Javascript, como: 
