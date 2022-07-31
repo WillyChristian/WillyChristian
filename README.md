@@ -1,4 +1,4 @@
-### Seja bem vindo!
+## Seja bem vindo!
 
 Me chamo Willy e sou programador e aficcionado por tecnologia! (software, na grande maioria)
 
@@ -10,18 +10,18 @@ __LinkedIn:__ [Willy Christian](https://www.linkedin.com/in/willychristian/)
 
 ### A meu respeito
 
-## Anteriormente (até dezembro/2021)...
-  Eu trabalhava com suporte técnico e fazia reparo de equipamentos eletrônicos. Durante esse período fiz alguns projetos.
+### Anteriormente (até dezembro/2021)...
+  Eu trabalhava com suporte técnico e fazia reparo de equipamentos eletrônicos. Durante esse período fiz alguns projetos
 voltados para o meu contexto, e que fosse melhorar meu dia a dia e talvez pudesse implantar no ambiente. Foram estes:
 
  - [Minhas Vendas](https://github.com/WillyChristian/minhasVendas)
  - [Todo PCAAS](https://github.com/WillyChristian/todo-pcaas) - É o último que fiz nesse sentido.
 
-Houveram outros, com certeza, mas como são do início, eu tinha pouca experência e precisam de atualização e refatoração.
+Houveram outros, com certeza, mas como são do início, eu tinha pouca experência e precisam de atualização e refatoração
 
-## De dezembro pra ca...
-  Em dezembro consegui fazer a migração de carreira e hoje sou atuante como __Desenvolvedor Jr.__ na [CI&T](https://ciandt.com/br/).
-Hoje, atuo principalmente como __desenvolvedor front end__ e algumas tarefas de backend. As principais tecnologias que venho.
+### De dezembro pra ca...
+  Em dezembro consegui fazer a migração de carreira e hoje sou atuante como __Desenvolvedor Jr.__ na [CI&T](https://ciandt.com/br/)
+Hoje, atuo principalmente como __desenvolvedor front end__ e algumas tarefas de backend. As principais tecnologias que venho
 trabalhando são:
 
 <p align="center">
@@ -34,7 +34,7 @@ trabalhando são:
 <img src="https://img.shields.io/badge/Template%20Engine-TWIG-%23BACF29?style=for-the-badge" />
 </p>
 
-## Meus estudos...
+### Meus estudos...
 
 ...Antes de ingressarna área, estava me dedicando à uma stack javascript: 
 <p align="center">
@@ -44,13 +44,13 @@ trabalhando são:
 
 E atualmente, adicionei <img src="https://img.shields.io/badge/CMS-Drupal-%230678BE?style=for-the-badge&logo=Drupal"/> por circunstâncias do trabalho
 
-## Meu foco...
+### Meu foco...
 
-  No momento estou buscando aprimoramento. Adicionar Drupal aos estudos tem sido desafiador mas estou crente que chegarei lá. E o.
+  No momento estou buscando aprimoramento. Adicionar Drupal aos estudos tem sido desafiador mas estou crente que chegarei lá. E o
 meu foco ainda esta no front-end, pois é o que mais me satisfaz =D
 
-## No futuro...
+### No futuro...
 
-...Até então eu pensava em como me inserir no mercado. Hoje, ainda estou sem uma meta definida no longo prazo. Talvez, com o foco em melhorar.
+...Até então eu pensava em como me inserir no mercado. Hoje, ainda estou sem uma meta definida no longo prazo. Talvez, com o foco em melhorar
 habilidades acabe surgindo novos desafios e com eles novas possibilidades... só o tempo dirá.
 
