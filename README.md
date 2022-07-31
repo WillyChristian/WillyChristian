@@ -1,16 +1,18 @@
-## ``` console.log("Olá 👋, Seja bem vindo!") ```
+### Seja bem vindo!
 
-## Me chamo _Willy Christian_! Sou programador e aficcionado por tecnologia (software, na grande maioria) ! 
+Me chamo Willy e sou programador e aficcionado por tecnologia! (software, na grande maioria)
 
-Fique a vontade para olhar, avaliar e clonar [se quiser] os repositórios. E caso queira bater um papo, é só me chamar em:
+Fique a vontade para olhar, avaliar e clonar (se quiser) os repositórios. E caso queira bater um papo, pode me encontrar em:
 
 __E-mail:__ willy.co.teixeira@gmail.com
 
 __LinkedIn:__ [Willy Christian](https://www.linkedin.com/in/willychristian/)
 
+### A meu respeito
+
 ## Anteriormente (até dezembro/2021)...
-  Até essa data eu trabalhava no suporte técnico e fazia reparo de equipamentos eletrônicos. Durante esse período fiz alguns projetos.
-voltados para o meu contexto, coisas que mostrassem alguma utilidade e talvez pudesse implantar no ambiente. Foram:
+  Eu trabalhava com suporte técnico e fazia reparo de equipamentos eletrônicos. Durante esse período fiz alguns projetos.
+voltados para o meu contexto, e que fosse melhorar meu dia a dia e talvez pudesse implantar no ambiente. Foram estes:
 
  - [Minhas Vendas](https://github.com/WillyChristian/minhasVendas)
  - [Todo PCAAS](https://github.com/WillyChristian/todo-pcaas) - É o último que fiz nesse sentido.
@@ -19,50 +21,36 @@ Houveram outros, com certeza, mas como são do início, eu tinha pouca experênc
 
 ## De dezembro pra ca...
   Em dezembro consegui fazer a migração de carreira e hoje sou atuante como __Desenvolvedor Jr.__ na [CI&T](https://ciandt.com/br/).
-Aqui, atuo principalmente como __desenvolvedor front end__ utilizando:
+Hoje, atuo principalmente como __desenvolvedor front end__ e algumas tarefas de backend. As principais tecnologias que venho.
+trabalhando são:
 
 <p align="center">
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" />
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</p>
-
-Algumas libraries, como:
-<p align="center">
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-<img src="https://img.shields.io/badge/Library-GreenSock-%88CE02?style=for-the-badge&logo=greensock" />
+<img src="https://img.shields.io/badge/Animation%20Library-GreenSock-%88CE02?style=for-the-badge&logo=greensock" />
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img src="https://img.shields.io/badge/Template%20Engine-TWIG-%23BACF29?style=for-the-badge" />
 </p>
 
-E um pouco de backend, com:
-<p align="center">
-<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-</p>
 ## Meus estudos...
 
-...tem se baseado principalmente em tecnologias que utilizam Javascript, como: 
+...Antes de ingressarna área, estava me dedicando à uma stack javascript: 
 <p align="center">
-<img src="https://img.shields.io/badge/-React.Js-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Next.Js-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Node.Js-success?style=for-the-badge">
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </p>
 
-E além destes, eu ja estudei e/ou ja tive algum contato com:
-<p align="center">
-<img src="https://img.shields.io/badge/-C%23-informational?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Expo-React Native-informational?style=for-the-badge">
-</p>
-
-Mas eu preferi adicionar  na minha bagagem para diversificar meus conhecimentos.
+E atualmente, adicionei <img src="https://img.shields.io/badge/CMS-Drupal-%230678BE?style=for-the-badge&logo=Drupal"/> por circunstâncias do trabalho
 
 ## Meu foco...
 
-...de aprendizagem tem sido o front-end. Eu gosto de desenhar os layouts na tela, é satisfatório! Mas eu ainda tenho muito o que aprimorar :P
+  No momento estou buscando aprimoramento. Adicionar Drupal aos estudos tem sido desafiador mas estou crente que chegarei lá. E o.
+meu foco ainda esta no front-end, pois é o que mais me satisfaz =D
 
 ## No futuro...
 
-...pretendo me aperfeiçoar no desenvolvimento do front-end, e aprender um pouco mais sobre o back-end, pra me tornar um fullstack. Também esta no meu radar para um
-
-futuro próximo um aperfeiçoamento em UI/UX e (se Deus quiser) finalizar minha graduação.
+...Até então eu pensava em como me inserir no mercado. Hoje, ainda estou sem uma meta definida no longo prazo. Talvez, com o foco em melhorar.
+habilidades acabe surgindo novos desafios e com eles novas possibilidades... só o tempo dirá.
 
