@@ -1,22 +1,27 @@
-## ``` console.log("Olá 👋! Seja bem vindo!") ```
+## ``` console.log("Olá 👋, Seja bem vindo!") ```
 
-## Eu me chamo _Willy Christian_! E sou um estudante e programador! 
+## Me chamo _Willy Christian_! Sou programador e aficcionado por tecnologia (software, na grande maioria) ! 
 
-Fique a vontade para olhar e clonar os repositórios e se quiser me contactar, estou disponível nos canais abaixo:
+Fique a vontade para olhar, avaliar e clonar [se quiser] os repositórios. E caso queira bater um papo, é só me chamar em:
 
 __E-mail:__ willy.co.teixeira@gmail.com
 
 __LinkedIn:__ [Willy Christian](https://www.linkedin.com/in/willychristian/)
 
-## Atualmente...
+## Anteriormente (até dezembro/2021)...
+  Até essa data eu trabalhava no suporte técnico e fazia reparo de equipamentos eletrônicos. Durante esse período fiz alguns projetos.
+voltados para o meu contexto, coisas que mostrassem alguma utilidade e talvez pudesse implantar no ambiente. Foram: 
+ - [Minhas Vendas](https://github.com/WillyChristian/minhasVendas)
+ - [Todo PCAAS](https://github.com/WillyChristian/todo-pcaas) - É o último que fiz nesse sentido.
+Houveram outros, com certeza, mas esses eu tinha pouca experência e precisam de atualização e refatoração.
 
-Estou trabalhando no repositório *todo-pcass*. Este é um projeto para me ajudar no dia-a-dia do trabalho e na essência, é um TODO-List.
+## De dezembro pra ca...
+  Em dezembro consegui fazer a migração de carreira e hoje sou atuante como __Desenvolvedor Jr.__ na [CI&T](https://ciandt.com/br/).
+Aqui atuo principalmente como __desenvolvedor front end__ atuando com:
 
-Contudo, os procedimentos exigem um pouco mais do que apenas listar as coisas a serem feitas. Alguns processos,
-
-tem _início_, _meio_ e _fim_ e pensando nisso foi que resolvi incrementar meu todo-list com algumas features para deixá-lo com uma 
-
-'cara' de manual. Vale a pena dar uma conferida ;)
+- <img src="https://img.shields.io/badge/-PHP-yellow?style=plastic">
+- <img src"https://img.shields.io/badge/CMS-Drupal-blue?style=plastic">
+- <img src"https://img.shields.io/badge/Preprocessador-SASS-%23BF4080?style=plastic">
 
 ## Meus estudos...
 
@@ -35,7 +40,7 @@ E além destes, eu ja estudei e/ou ja tive algum contato com:
 <img src="https://img.shields.io/badge/Expo-React Native-informational?style=for-the-badge">
 </p>
 
-Mas eu preferi adicionar <img src="https://img.shields.io/badge/-PHP-yellow?style=plastic"> na minha bagagem para diversificar meus conhecimentos.
+Mas eu preferi adicionar  na minha bagagem para diversificar meus conhecimentos.
 
 ## Meu foco...
 
