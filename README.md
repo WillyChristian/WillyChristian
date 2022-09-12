@@ -40,10 +40,7 @@ trabalhando são:
 <p align="center">
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<div align="center">
-  <img height="60" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
-  React Native
-</div>
+<img src="https://img.shields.io/badge/Mobile-React%20Native-%2361DAFB?style=for-the-badge&logo=React" />
 </p>
 
 E atualmente, adicionei <img src="https://img.shields.io/badge/CMS-Drupal-%230678BE?style=flat-square&logo=Drupal"/> por circunstâncias do trabalho
