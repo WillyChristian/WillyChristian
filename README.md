@@ -1,8 +1,8 @@
 ## Seja bem vindo!
 
-Me chamo Willy e sou programador e aficcionado por tecnologia! (software, na grande maioria)
+Me chamo Willy, sou programador e aficcionado por tecnologia! (software, na grande maioria)
 
-Fique a vontade para olhar, avaliar e clonar (se quiser) os repositórios. E caso queira bater um papo, pode me encontrar em:
+Fique a vontade para olhar, avaliar e clonar (se quiser) os repositórios. E caso queira bater um papo, pode me contactar via:
 
 __E-mail:__ willy.co.teixeira@gmail.com
 
@@ -36,10 +36,14 @@ trabalhando são:
 
 ### Meus estudos...
 
-...Antes de ingressarna área, estava me dedicando à uma stack javascript: 
+...Antes de ingressarna área, estava me dedicando à stack javascript: 
 <p align="center">
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<div align="center">
+  <img height="60" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
+  React Native
+</div>
 </p>
 
 E atualmente, adicionei <img src="https://img.shields.io/badge/CMS-Drupal-%230678BE?style=flat-square&logo=Drupal"/> por circunstâncias do trabalho
