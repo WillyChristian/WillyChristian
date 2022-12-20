@@ -17,8 +17,8 @@ e alguns outros adivindos de coisas do cotidiano daquela época. Abaixo listei a
 
 ###### São de minha autoria (do mais recente):
  - [Meu controle financeiro](https://github.com/WillyChristian/expense-control);
- - [Todo PCAAS](https://github.com/WillyChristian/todo-pcaas)(incompleto);
- - [Minhas Vendas](https://github.com/WillyChristian/minhasVendas) (incompleto);
+ - [Todo PCAAS](https://github.com/WillyChristian/todo-pcaas);
+ - [Minhas Vendas](https://github.com/WillyChristian/minhasVendas);
 
 ###### Fiz ao longo de algum curso:
  - [API Game of Thrones](https://github.com/WillyChristian/GameOfThrones);
