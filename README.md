@@ -6,7 +6,9 @@ Fique a vontade para olhar, avaliar e clonar (se quiser) os repositórios. E cas
 
 __E-mail:__ willy.co.teixeira@gmail.com
 
-__LinkedIn:__ [Willy Christian](https://www.linkedin.com/in/willychristian/)
+__LinkedIn:__  [Willy Chrsitan](https://www.linkedin.com/in/willychristian/)
+
+__Portifólio:__ [Willy Christian](https://willychristian.github.io/)
 
 ### A meu respeito
   Eu trabalhei muitos anos no suporte técnico principalemte com reparo de equipamentos eletrônicos. Desde de dezembro/2021, migrei
